@@ -1,4 +1,2 @@
-# Programacion-Basica-302-1
-## Denisse Noris Marquez
-## 08/Marzo/2009
-## Portafolio de Codigos de c++
+
+<img width="909" height="678" alt="image" src="https://github.com/user-attachments/assets/03e9c818-727d-4736-9bc6-20727f7a249b" />
